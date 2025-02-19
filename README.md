@@ -14,6 +14,7 @@ The repository is organized into the following main sections:
 
 - **Tutorials**: Contains various tutorials that I have followed or created to understand different concepts in Data Science and Machine Learning.
 - **Projects**: Includes mini-projects that I have worked on to apply the concepts learned.
+- **Books**: Includes books that I have used to learn the concepts applied.
 
 ## Usage
 
